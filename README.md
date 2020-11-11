@@ -1,15 +1,23 @@
 # Analiza podatkov s programom R, 2020/21
-
+## Avtor: Aleksander Ilič
 Repozitorij z gradivi pri predmetu APPR v študijskem letu 2020/21
 
 * [![Shiny](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/jaanos/APPR-2020-21/master?urlpath=shiny/APPR-2020-21/projekt.Rmd) Shiny
 * [![RStudio](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/jaanos/APPR-2020-21/master?urlpath=rstudio) RStudio
 
-## Tematika
+## Analiza različnih investicij
+Analiziral bom različne investicije (delnice posameznih podjetij, delniške indekse), za 3, 5, 10 let, v obdobju 1980-2020.
+Osredotočil se bom na Ameriška podjetja, primerjal bom povprečen donos portfelja z 3, 10, 20 delnicami z donosom indeksa za različna časovna obdobja
 
-Izbrali si boste temo, s katero se bo vaš projekt ukvarjal.
-Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
+Podatki bodo vkljucevali:
+- mesečne cene delnic
+- P/E
+- Beta(5letni, mesečni)
+- Cash flow na delnico
+- kapitalizacija podjetja
 
+Podatke bom dobil 
+Skušal bom ugotoviti, kako je smiselno investirati, koliko delnic je smiselno imeti v portfelju.
 ## Program
 
 Glavni program in poročilo se nahajata v datoteki `projekt.Rmd`.
