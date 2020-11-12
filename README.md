@@ -16,7 +16,7 @@ Podatki bodo vkljucevali:
 - Cash flow na delnico
 - kapitalizacija podjetja
 
-Podatke bom dobil 
+Podatke bom dobil iz Yahoo finance, dataHub, nasdaq.
 Skušal bom ugotoviti, kako je smiselno investirati, koliko delnic je smiselno imeti v portfelju.
 ## Program
 
