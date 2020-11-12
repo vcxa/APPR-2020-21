@@ -12,12 +12,14 @@ Osredotočil se bom na Ameriška podjetja, primerjal bom povprečen donos portfe
 Podatki bodo vkljucevali:
 - mesečne cene delnic
 - P/E
-- Beta(5letni, mesečni)
 - Cash flow na delnico
-- kapitalizacija podjetja
+- tržna kapitalizacija podjetja
 
-Podatke bom dobil iz Yahoo finance, dataHub, nasdaq.
-Skušal bom ugotoviti, kako je smiselno investirati, koliko delnic je smiselno imeti v portfelju.
+Podatke sem dobil iz Yahoo finance, dataHub, nasdaq.
+
+Ideja: Vzel bom portfelje sestavljene iz 3,5,10 naključno izbranih ameriških delnic in jih primerjal glede na čas začetka investiranja. Primerjal jih bom z donosom portfelja katerih delnice bodo izbrane na podlagi parametrov (P/E, cash flow, tržna kapitalizacija), in indexa S&P 500.
+Cilj naloge je dobiti večje razumevanje kako število delnic v portfelju vpliva na donos, kako pomemben je čas začetka investiranja, ali je odločanje glede na cash flow, P/E kazalnik... smiselno oziroma bolje od naključno generiranega portfelja.
+
 ## Program
 
 Glavni program in poročilo se nahajata v datoteki `projekt.Rmd`.
