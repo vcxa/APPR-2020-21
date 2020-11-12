@@ -5,7 +5,7 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2020/21
 * [![Shiny](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/jaanos/APPR-2020-21/master?urlpath=shiny/APPR-2020-21/projekt.Rmd) Shiny
 * [![RStudio](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/jaanos/APPR-2020-21/master?urlpath=rstudio) RStudio
 
-## Analiza različnih investicij
+## Analiza investicij
 Analiziral bom različne investicije (delnice posameznih podjetij, delniške indekse), za 3, 5, 10 let, v obdobju 1980-2020.
 Osredotočil se bom na Ameriška podjetja, primerjal bom povprečen donos portfelja z 3, 10, 20 delnicami z donosom indeksa za različna časovna obdobja
 
