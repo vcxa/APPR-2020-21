@@ -18,7 +18,7 @@ Podatki bodo vkljucevali:
 - Cash flow na delnico
 - tržna kapitalizacija podjetja
 
-# Viri
+### Viri
 -Yahoo finance 
 -dataHub
 -nasdaq
