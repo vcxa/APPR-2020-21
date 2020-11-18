@@ -5,20 +5,25 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2020/21
 * [![Shiny](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/jaanos/APPR-2020-21/master?urlpath=shiny/APPR-2020-21/projekt.Rmd) Shiny
 * [![RStudio](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/jaanos/APPR-2020-21/master?urlpath=rstudio) RStudio
 
-## Analiza investicij
-Analiziral bom različne investicije (delnice posameznih podjetij, delniške indekse), za 3, 5, 10 let, v obdobju 1980-2020.
-Osredotočil se bom na Ameriška podjetja, primerjal bom povprečen donos portfelja z 3, 10, 20 delnicami z donosom indeksa za različna časovna obdobja
+## Analiza portfeljev
+
+Analiziral bom različne delniše portfelje v različnih časovnih obdobjih.
+Ideja:
+Vzel bom portfelje sestavljene iz 3,10,20 naključno izbranih ameriških delnic (iz S&P 500) in jih primerjal glede na čas začetka investiranja. Primerjal jih bom z donosom portfelja katerih delnice bodo izbrane na podlagi P/E, cash flow, tržna kapitalizacija, in z donosom indexa S&P 500.
+Cilj naloge je dobiti večje razumevanje kako število delnic v portfelju vpliva na donos, kako pomemben je čas začetka investiranja, ali je odločanje glede na cash flow, P/E bolje od naključnega portfelja.
 
 Podatki bodo vkljucevali:
-- mesečne cene delnic
+- letne cene delnic
 - P/E
 - Cash flow na delnico
 - tržna kapitalizacija podjetja
 
-Podatke sem dobil iz Yahoo finance, dataHub, nasdaq.
+#Viri
+-Yahoo finance 
+-dataHub
+-nasdaq
 
-Ideja: Vzel bom portfelje sestavljene iz 3,5,10 naključno izbranih ameriških delnic (iz S&P 500) in jih primerjal glede na čas začetka investiranja. Primerjal jih bom z donosom portfelja katerih delnice bodo izbrane na podlagi parametrov (P/E, cash flow, tržna kapitalizacija), in z donosom indexa S&P 500.
-Cilj naloge je dobiti večje razumevanje kako število delnic v portfelju vpliva na donos, kako pomemben je čas začetka investiranja, ali je odločanje glede na cash flow, P/E kazalnik... smiselno oziroma bolje od naključno generiranega portfelja.
+
 
 ## Program
 
