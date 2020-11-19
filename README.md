@@ -19,9 +19,10 @@ Podatki bodo vkljucevali:
 - tržna kapitalizacija podjetja
 
 ### Viri:
--Yahoo finance 
--dataHub
--nasdaq
+- Yahoo finance 
+- dataHub
+- nasdaq
+- QuantShare
 
 
 
