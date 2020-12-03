@@ -5,24 +5,21 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2020/21
 * [![Shiny](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/jaanos/APPR-2020-21/master?urlpath=shiny/APPR-2020-21/projekt.Rmd) Shiny
 * [![RStudio](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/jaanos/APPR-2020-21/master?urlpath=rstudio) RStudio
 
-## Analiza portfeljev
+## Analiza delniških sektorjev
 
-Analiziral bom različne delniše portfelje v različnih časovnih obdobjih.
-Ideja:
-Vzel bom portfelje sestavljene iz 3,10,20 naključno izbranih ameriških delnic (iz S&P 500) in jih primerjal glede na čas začetka investiranja. Primerjal jih bom z donosom portfelja katerih delnice bodo izbrane na podlagi P/E, cash flow, tržna kapitalizacija, in z donosom indexa S&P 500.
-Cilj naloge je dobiti večje razumevanje kako število delnic v portfelju vpliva na donos, kako pomemben je čas začetka investiranja, ali je odločanje glede na cash flow, P/E bolje od naključnega portfelja.
+Analiziral bom različne delniše sektorje v različnih časovnih obdobjih, med drugim tudi 2007-2009.
+Pogledal bom donose posameznih delnic, in jih primerjal z donosom sektorja v katerem je delnica. Prav tako bom primerjal sektorje med seboj, in z donosom indeksa S&P 500.
+
 
 Podatki bodo vkljucevali:
-- letne cene delnic
+- dnevne cene delnic
 - P/E
 - Cash flow na delnico
-- tržna kapitalizacija podjetja
 
 ### Viri:
 - Yahoo finance 
 - dataHub
-- nasdaq
-- QuantShare
+- quantmod knjižnjica
 
 
 
