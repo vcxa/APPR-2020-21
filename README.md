@@ -7,7 +7,7 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2020/21
 
 ## Analiza delniških sektorjev
 
-Analiziral bom različne delniše sektorje v različnih časovnih obdobjih, med drugim tudi 2007-2009.
+Analiziral bom različne delniše sektorje v različnih časovnih obdobjih, med drugim tudi med krizo 2007-2009.
 Pogledal bom donose posameznih delnic, in jih primerjal z donosom sektorja v katerem je delnica. Prav tako bom primerjal sektorje med seboj, in z donosom indeksa S&P 500.
 
 
