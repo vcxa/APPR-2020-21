@@ -23,7 +23,6 @@ Tabele:
 . simbol delnice 
 . sektor
 
--
 
 ### Viri:
 - Yahoo finance
