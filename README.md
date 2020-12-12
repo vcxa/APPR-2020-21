@@ -11,14 +11,32 @@ Analiziral bom različne delniše sektorje v različnih časovnih obdobjih, med 
 Pogledal bom donose posameznih delnic, in jih primerjal z donosom sektorja v katerem je delnica. Prav tako bom primerjal sektorje med seboj, in z donosom indeksa S&P 500.
 
 
-Podatki bodo vkljucevali:
-- dnevne cene delnic
-- P/E
-- Cash flow na delnico
+Tabele:
+- Posamezne delnice/indeksa
+. cena ob odprtju
+. cena ob zaprtju
+. najvišja cena
+. najnižja cena
+. volumen
+
+- Vseh delnic
+. simbol delnice 
+. sektor
+
+-
 
 ### Viri:
-- Yahoo finance 
-- dataHub
+- Yahoo finance
+S&P 500 https://finance.yahoo.com/quote/%5EGSPC?p=^GSPC&.tsrc=fin-srch
+material https://finance.yahoo.com/quote/XLB?p=XLB
+energy https://www.spglobal.com/spdji/en/indices/equity/sp-500-energy-sector/#data
+industrial https://finance.yahoo.com/quote/IYJ?p=IYJ
+consumerd https://finance.yahoo.com/quote/XLY/
+consumers https://finance.yahoo.com/quote/XLP/
+healthcare https://finance.yahoo.com/quote/IYH?p=IYH
+financial https://finance.yahoo.com/quote/IYF/
+utilities https://finance.yahoo.com/quote/IDU?p=IDU
+
 - quantmod knjižnjica
 
 
